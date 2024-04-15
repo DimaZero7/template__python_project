@@ -30,7 +30,7 @@ docker exec -it container_name bash
 cd app
 ```
 
-4) Установить все необходимые пакеты с помощью `pip`:
+4) Установить все необходимые пакеты с помощью pip:
 ```bash
 pip install package_name
 ```
